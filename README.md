@@ -16,6 +16,8 @@
   </a>
 </div>
 
+
+
 - ✨ Pronouns: She/Her
 - 👩🏽‍💻 I’m a fullstack developer looking to collaborate on Open source projects, Hackathons, and Junior to Mid-Level Opportunities
 - 📧 You can reach me by email on valentinabuoro4@gmail.com
@@ -23,16 +25,14 @@
 
 
 
-### :fire: My Stats :
 
-[Queen-x-vee's GitHub stats](https://github-readme-stats.vercel.app/api?username=queen-x-vee&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quuen-x-vee&layout=compact&theme=vision-friendly-dark)](https://github.com/queen-x-vee/github-readme-stats)
 
 
 <!--
 **queen-x-vee/queen-x-vee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[Queen-x-vee's GitHub stats](https://github-readme-stats.vercel.app/api?username=queen-x-vee&show_icons=true&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
