@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" />
 </div>
 
 <div id="badges">
@@ -27,7 +27,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quuen-x-vee&layout=compact&theme=vision-friendly-dark)](https://github.com/queen-x-vee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queen-x-vee&layout=compact&theme=vision-friendly-dark)](https://github.com/queen-x-vee/github-readme-stats)
 
 
 <!--
