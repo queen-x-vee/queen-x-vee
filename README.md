@@ -1,4 +1,5 @@
  <div align="center" > [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7511D&random=false&width=435&height=55&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Valentina+(queen-x-vee))](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7511D&random=false&width=435&height=55&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Valentina+(queen-x-vee)" alt='welcomw'/>
 </div.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width='120'/>
