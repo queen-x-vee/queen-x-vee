@@ -29,6 +29,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queen-x-vee&layout=compact&theme=vision-friendly-dark)](https://github.com/queen-x-vee/github-readme-stats)
+
+
 [Queen-x-vee's GitHub stats](https://github-readme-stats.vercel.app/api?username=queen-x-vee&show_icons=true&theme=radical)
 
 <!--
