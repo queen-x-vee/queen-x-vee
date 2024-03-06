@@ -33,7 +33,7 @@
 
 
 
-[![Valentina-Buoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentina-buoro&show_icons=true&theme=radical)
+![Valentina-Buoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentina-buoro&show_icons=true&theme=radical)
 
 <!--
 
