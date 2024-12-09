@@ -23,7 +23,7 @@
 
 
 - ✨ Pronouns: She/Her
-- 👩🏽‍💻 I’m a fullstack developer looking to collaborate on Open source projects, Hackathons, and Junior to Mid-Level Opportunities
+- 👩🏽‍💻 I’m a fullstack developer looking to collaborate on Open source projects, Hackathons, and Career Opportunities
 - ✍🏻 I write about tech on <a href="https://valentinabuoro.hashnode.dev/"> hashnode </a>
 - 📧 You can reach me by email on valentinabuoro4@gmail.com 
 - 💼 Job interests: Frontend Engineer , Backend Engineer and Software Engineer (Junior or Mid level).
